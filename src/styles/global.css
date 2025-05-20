@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional global visuals */
+body {
+  @apply bg-tripp-dark text-white font-tripp tracking-wide;
+}
